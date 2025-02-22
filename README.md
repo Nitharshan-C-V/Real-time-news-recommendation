@@ -20,7 +20,7 @@ The system integrates several robust technologies:
 4. **User Interaction Monitoring**: Tracks and analyzes click-through rates and engagement metrics to improve recommendations dynamically. 
 5. **Frontend & Backend Integration**: Seamless flow from user interaction to backend processing and recommendation delivery. 
 
-##Architecture Diagram
+## Architecture Diagram
 ![Arch](https://github.com/Nitharshan-C-V/Real-time-news-recommendation/blob/main/DCSC%20Project%20Architecture.png)
 
 ## Deployment Steps
